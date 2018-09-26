@@ -1,2 +1,2 @@
 # hello-world
-Hi, Im alley.
+Hi, I'm alley.
